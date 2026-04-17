@@ -1,2 +1,1 @@
-// /start command
-Bot.sendMessage("Hello " + user.first_name + "! Welcome to my bot.")
+Api.sendMessage({ text: "Hello!" })
